@@ -46,6 +46,8 @@ using namespace std;
 
     const std::string metname = "Muon|RecoMuon|MuonSeedOrcaPatternRecognition";
 
+// ANNA test seed
+
 // Constructor
 MuonSeedOrcaPatternRecognition::MuonSeedOrcaPatternRecognition(const edm::ParameterSet& pset)
 : MuonSeedVPatternRecognition(pset),
